@@ -9,3 +9,4 @@ console.log(null===0);
 console.log("mango">90);
 console.log("apple">90);
 console.log("5"==5);
+console.log(5===5);
