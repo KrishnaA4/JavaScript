@@ -7,3 +7,4 @@ console.log("1"===1);
 console.log(null==0);
 console.log(null===0);
 console.log("mango">90);
+console.log("apple">90);
